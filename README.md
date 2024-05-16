@@ -6,6 +6,7 @@
 	<li>💻 => Amo aprender coisas novas relacionado a tecnologia e inovação.</li>
 	<li>📖 => Atualmente graduando em Análise e Desenvolvimento de Sistemas no terceiro período.</li>
 	<li>😁 => Flamenguista, adoro assistir Supernatural, apaixonado por música e jogar video-game.</li>
+	<li>💬 => Fale comigo: [LinkedIn](https://www.linkedin.com/in/victoreduardo-ferreira/)</li>
 </div>
 <br>
 
